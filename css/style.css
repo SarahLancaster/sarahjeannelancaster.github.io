@@ -1,0 +1,93 @@
+<style>
+/* Pen-specific styles */
+* {
+  box-sizing: border-box;
+}
+html, body, section, div {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+body {
+
+  font-family: 'Josefin Slab', serif;
+  font-size: 1.25rem;
+  line-height: 150%;
+  text-align: center;
+
+}
+
+section {
+  width: 100%;
+}
+
+article {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  padding: 1rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+#nav{
+  height: 70px;
+
+}
+
+
+#page1{
+  height: 1000px;
+
+}
+#page2{
+  height: 1000px;
+
+}
+#page3{
+  height: 1000px;
+
+}
+
+#page1left{
+  width:50%;
+  background-color: #ffb6b9;
+  float:left;
+}
+
+#page1right{
+  width:50%;
+  background-color: #ffffff;
+  float:right;
+
+}
+
+#page2left{
+  width:50%;
+  background-color: #ffffff;
+  float:left;
+
+}
+
+#page2right{
+  width:50%;
+  background-color: #4bbcf4;
+  float:right;
+}
+
+
+#page3left{
+  width:50%;
+  background-color: #bbded6;
+  float:left;
+}
+
+#page3right{
+  width:50%;
+  background-color: #ffffff;
+  float:right;
+}
+
+</style>
