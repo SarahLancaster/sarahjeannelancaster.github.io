@@ -1,2 +1,2 @@
-# sarahjeannelancaster.github.io
+# SarahLancaster.github.io
 My Personal Website
